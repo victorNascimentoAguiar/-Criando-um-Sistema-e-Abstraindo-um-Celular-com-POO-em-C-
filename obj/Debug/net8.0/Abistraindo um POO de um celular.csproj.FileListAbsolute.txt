@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\bin\Debug\net8.0\Abistraindo um POO de um celular.exe
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\bin\Debug\net8.0\Abistraindo um POO de um celular.deps.json
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\bin\Debug\net8.0\Abistraindo um POO de um celular.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\bin\Debug\net8.0\Abistraindo um POO de um celular.dll
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\bin\Debug\net8.0\Abistraindo um POO de um celular.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\Abistraindo um POO de um celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\Abistraindo um POO de um celular.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\Abistraindo um POO de um celular.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\Abistraindo um POO de um celular.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\Abistraindo um POO de um celular.dll
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\refint\Abistraindo um POO de um celular.dll
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\Abistraindo um POO de um celular.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\Abistraindo um POO de um celular.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\C#\Abistraindo um POO de um celular\obj\Debug\net8.0\ref\Abistraindo um POO de um celular.dll

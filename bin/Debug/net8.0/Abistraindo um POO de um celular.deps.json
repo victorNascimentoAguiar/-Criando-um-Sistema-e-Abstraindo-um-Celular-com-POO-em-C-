@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Abistraindo um POO de um celular/1.0.0": {
+        "runtime": {
+          "Abistraindo um POO de um celular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abistraindo um POO de um celular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
